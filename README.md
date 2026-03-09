@@ -48,10 +48,10 @@ Transitioning from Mechanical Engineering into Software Engineering. Self-taught
 
 | Certification | Issuer | Date |
 |---|---|---|
+| **Fundamentals of Deep Learning** | NVIDIA | 2026 |
+| **Generative AI with Diffusion Models** | NVIDIA | 2026 |
 | **Red Hat Certified System Administrator (RHCSA)** - EX200 | Red Hat | Aug 2025 |
-| **Generative AI with Diffusion Models** | NVIDIA | - |
-| **Building LLM Applications With Prompt Engineering** | NVIDIA | - |
-| **Fundamentals of Deep Learning** | NVIDIA | - |
+| **Building LLM Applications With Prompt Engineering** | NVIDIA | 2025 |
 
 ---
 
@@ -59,9 +59,9 @@ Transitioning from Mechanical Engineering into Software Engineering. Self-taught
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Houssemamor&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-roan-kappa-55.vercel.app/api?username=Houssemamor&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Houssemamor&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-roan-kappa-55.vercel.app/api/top-langs/?username=Houssemamor&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Houssemamor&theme=tokyonight&hide_border=true)
 
